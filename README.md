@@ -2,7 +2,10 @@
 Assignment 
 compiled with below python version
 
-/home/satish/Desktop/assignment/1.png
+Python 3.7.1 (default, Dec 14 2018, 19:28:38) 
+[GCC 7.3.0] :: Anaconda, Inc. on linux
+Type "help", "copyright", "credits" or "license" for more information.
+
 
 The repository contains 5 files:
 1. Jupyter notebook file named as "find_subsequence.pynb"
@@ -11,6 +14,7 @@ The repository contains 5 files:
 
 Once the file is cloned it can be executed using below command
 
-/home/satish/Desktop/assignment/3.png
+>>python3 find_subsequence.py input_1.txt 4 differences
+>>python3 find_subsequence.py input_1.txt 9 values
 
 @Note : All filed are considered to be in same directory while executing above commands
