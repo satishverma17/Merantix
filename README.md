@@ -14,7 +14,8 @@ The repository contains 5 files:
 
 Once the file is cloned it can be executed using below command
 
->>python3 find_subsequence.py input_1.txt 4 differences
->>python3 find_subsequence.py input_1.txt 9 values
+python3 find_subsequence.py input_1.txt 4 differences
+
+python3 find_subsequence.py input_1.txt 9 values
 
 @Note : All filed are considered to be in same directory while executing above commands
